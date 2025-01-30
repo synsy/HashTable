@@ -127,7 +127,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="HashTable.cpp" />
+    <ClCompile Include="C:\Users\codel\Downloads\CS 300 Hash Table Assignment Student Files\CS 300 Hash Table Assignment Student Files\CSVparser.cpp" />
+    <ClCompile Include="C:\Users\codel\Downloads\CS 300 Hash Table Assignment Student Files\CS 300 Hash Table Assignment Student Files\HashTable.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\codel\Downloads\CS 300 Hash Table Assignment Student Files\CS 300 Hash Table Assignment Student Files\CSVparser.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\codel\Downloads\CS 300 Hash Table Assignment Student Files\CS 300 Hash Table Assignment Student Files\eBid_Monthly_Sales.csv" />
+    <None Include="C:\Users\codel\Downloads\CS 300 Hash Table Assignment Student Files\CS 300 Hash Table Assignment Student Files\eBid_Monthly_Sales_Dec_2016.csv" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="C:\Users\codel\Downloads\CS 300 Hash Table Assignment Student Files\CS 300 Hash Table Assignment Student Files\License.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
